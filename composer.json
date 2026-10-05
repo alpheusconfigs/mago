@@ -10,7 +10,7 @@
         "config",
         "php"
     ],
-    "homepage": "https://github.com/alpheuscfg/mago",
+    "homepage": "https://github.com/alpheusconfigs/mago",
     "readme": "README.md",
     "license": "MIT",
     "authors": [
@@ -20,9 +20,9 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/alpheuscfg/mago/issues",
-        "source": "https://github.com/alpheuscfg/mago",
-        "docs": "https://github.com/alpheuscfg/mago/blob/main/docs/README.md"
+        "issues": "https://github.com/alpheusconfigs/mago/issues",
+        "source": "https://github.com/alpheusconfigs/mago",
+        "docs": "https://github.com/alpheusconfigs/mago/blob/main/docs/README.md"
     },
     "require-dev": {
         "carthage-software/mago": "1.42.0"
